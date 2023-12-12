@@ -1,0 +1,11 @@
+.image{
+    background-image: url(./img.jpg);
+
+}
+.profile photo{
+    max-width: 50px;
+    height: 10px;
+    width: 5%;
+    border-radius: 10%;
+    text-align: center;
+}
